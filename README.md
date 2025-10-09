@@ -1,5 +1,11 @@
+### LOGIN PAGE
 ![App Screenshot](./assets/login.bmp)
+
+### HOME
 ![App Screenshot](./assets/home.bmp)
+
+
+### WATCHLIST
 ![App Screenshot](./assets/watchlist.bmp)
 
 
