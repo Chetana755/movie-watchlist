@@ -1,3 +1,7 @@
+![App Screenshot](./assets/login.png)
+![App Screenshot](./assets/home.png)
+![App Screenshot](./assets/watchlist.png)
+
 
 ## 🎬 Movie Watchlist App
 
